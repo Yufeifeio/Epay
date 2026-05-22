@@ -35,3 +35,7 @@
 - `plugins/` 支付插件
 - `paypage/` 收款页与支付页
 - `includes/` 核心类库与公共函数
+
+## 插件
+
+- `epusdt` 插件：[Epay-epusdt](https://github.com/Yufeifeio/Epay-epusdt)
