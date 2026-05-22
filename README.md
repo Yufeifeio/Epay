@@ -1,3 +1,18 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=%E5%BD%A9%E8%99%B9%E6%98%93%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=40&desc=Epay%20%7C%20Open%20Source&descAlign=50&descAlignY=62" alt="banner" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-7.4+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 7.4+" />
+  <img src="https://img.shields.io/badge/MySQL-5.6+-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 5.6+" />
+  <a href="https://github.com/Yufeifeio/Epay-epusdt">
+    <img src="https://img.shields.io/badge/Epusdt-%E6%8F%92%E4%BB%B6-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="Epusdt 插件" />
+  </a>
+  <a href="https://t.me/pyufc">
+    <img src="https://img.shields.io/badge/%E9%B1%BC%E8%82%A5%E8%82%A5-%40pyufc-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="鱼肥肥 @pyufc" />
+  </a>
+</div>
+
 # 彩虹易支付系统
 
 彩虹易支付系统由郑州追梦网络科技有限公司开发，是一款开源的免签约支付产品，能够帮助开发者一站式接入支付宝、微信、财付通、QQ 钱包等多种支付方式，实现高效的支付集成。
