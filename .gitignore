@@ -1,0 +1,11 @@
+/config.php
+/install/install.lock
+/assets/uploads/
+/assets/img/article/
+/assets/img/complain/
+/plugins/*/logs/
+/*.log
+/@login.lock
+/.DS_Store
+/.idea/
+/.vscode/
